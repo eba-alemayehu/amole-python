@@ -1,0 +1,7 @@
+README.md
+setup.py
+amole.egg-info/PKG-INFO
+amole.egg-info/SOURCES.txt
+amole.egg-info/dependency_links.txt
+amole.egg-info/requires.txt
+amole.egg-info/top_level.txt
