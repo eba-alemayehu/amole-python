@@ -1,6 +1,7 @@
 # Amole pay integration
 
 This python library is to help you integrate with amole api. Contact amole team for integration.
+
 ```python
 import amole
 import json, requests
